@@ -1,0 +1,24 @@
+#body{
+	background-color: rgb(104,187,285);
+}
+#left-box{
+	float: left;
+	background-color: rgb(9,30,45);
+	color: white;
+	height: 1000px;
+	width: 250px;
+}
+z
+#right-box{
+	float: center;
+	width: 550px;
+}
+
+#experiences-box, #studies-box{
+	background-color: white;
+}
+
+#footer{
+	float: none;
+	width:800px;
+}
